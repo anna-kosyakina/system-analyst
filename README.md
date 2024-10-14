@@ -2,7 +2,7 @@
 
 [Кто такие аналитики в IT и чем они занимаются](https://habr.com/ru/articles/657649/)
 
-[Какие бывают АНАЛИТИКИ](https://www.youtube.com/watch?v=PJnXeG4Sots&ab_channel=ListenIT)
+[Какие бывают АНАЛИТИКИ (видео)](https://www.youtube.com/watch?v=PJnXeG4Sots&ab_channel=ListenIT)
 
 
 
